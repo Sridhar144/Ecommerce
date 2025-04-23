@@ -24,11 +24,11 @@ const testData = {
     "description": "Django administration\r\nWELCOME, VIKAS. VIEW SITE / CHANGE PASSWORD / LOG OUT\r\nHome › Product_Management › Products › Add Product\r\n\r\nACCOUNTS\r\nEmail addresses\tAdd\r\nAUTH TOKEN\r\nTokens\tAdd\r\nAUTHENTICATION AND AUTHORIZATION\r\nGroups\tAdd\r\nUsers\tAdd\r\nMASTERS\r\nCategorys\tAdd\r\nPRODUCT_MANAGEMENT\r\nProducts\tAdd\r\nSITES\r\nSites\tAdd\r\nAdd Product\r\n\r\nName:\r\nShirt\r\nSlug:\r\nShirt\r\nPrice:\r\n2600\r\nDescription:\r\nDiscount percentage:\r\n0\r\nCategory:\r\nCloths\r\n ChangeAdd\r\nTotal stock:\r\n10\r\nImage:No file chosen\r\nIs active",
     "discount_percentage": 20.0,
     "total_stock": 11,
-    "image": "http://localhost:8000/media/product-images/16240094675fbe59747c3ba.jpeg",
+    "image": "http://ecommerce-bhb9.onrender.com/media/product-images/16240094675fbe59747c3ba.jpeg",
     "product_images": [
         {
             "id": 1,
-            "image": "http://localhost:8000/media/product-images/81SdofSuSJL._UL1500__bQMVx5a.jpg",
+            "image": "http://ecommerce-bhb9.onrender.com/media/product-images/81SdofSuSJL._UL1500__bQMVx5a.jpg",
             "alt_text": "1",
             "is_featured": true,
             "created_at": "2021-11-21T10:59:03.154216Z",
@@ -37,7 +37,7 @@ const testData = {
         },
         {
             "id": 2,
-            "image": "http://localhost:8000/media/product-images/saleordemoproduct_sneakers_02_3_ZQbZhuQ.png",
+            "image": "http://ecommerce-bhb9.onrender.com/media/product-images/saleordemoproduct_sneakers_02_3_ZQbZhuQ.png",
             "alt_text": "2",
             "is_featured": false,
             "created_at": "2021-11-21T10:59:03.156634Z",
@@ -46,7 +46,7 @@ const testData = {
         },
         {
             "id": 3,
-            "image": "http://localhost:8000/media/product-images/saleordemoproduct_sneakers_01_1_n1C7dBN.png",
+            "image": "http://ecommerce-bhb9.onrender.com/media/product-images/saleordemoproduct_sneakers_01_1_n1C7dBN.png",
             "alt_text": "3",
             "is_featured": false,
             "created_at": "2021-11-21T10:59:03.158160Z",
