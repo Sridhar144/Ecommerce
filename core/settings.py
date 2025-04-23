@@ -151,5 +151,5 @@ DJOSER = {
 }
 CORS_ORIGIN_ALLOW_ALL = False
 CORS_ORIGIN_WHITELIST = [
-    "http://ecommerce-buyer-git-main-sridhar144s-projects.vercel.app/",
+    'https://ecommerce-buyer-git-main-sridhar144s-projects.vercel.app'
 ]
